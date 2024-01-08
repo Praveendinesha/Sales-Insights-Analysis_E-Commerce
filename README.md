@@ -16,8 +16,7 @@ To run this project, ensure you have Microsoft Power BI installed on your system
 
 **DAX Query**
 
-**Dashboard Insights**
-
+### Dashboard Insights
 **Key Performance Indicators (KPIs):** Total Profit, Sales, Total Quantity, No. of Orders, Profit Margin%
 
 **Monthly Trends:** Sales and Profit
