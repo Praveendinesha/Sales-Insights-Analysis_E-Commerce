@@ -10,11 +10,9 @@ The primary goal is to provide actionable insights into the e-commerce landscape
 To run this project, ensure you have Microsoft Power BI installed on your system.
 
 ### Tools Utilized
-**Microsoft Power BI**
-
-**Power Query**
-
-**DAX Query**
+* Microsoft Power BI
+* Power Query
+* DAX Query
 
 ### Dashboard Insights
 **Key Performance Indicators (KPIs):** Total Profit, Sales, Total Quantity, No. of Orders, Profit Margin%
