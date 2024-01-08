@@ -32,9 +32,3 @@ Various visualization types used: bar chart, pie chart, donut chart, clustered b
 
 ### Conclusion
 This project harnesses Power BI's capabilities to empower stakeholders with a dynamic platform for sales data analysis. The derived insights lead to informed decisions and refined sales strategies.
-
-
-
-Is this conversation helpful so far?
-
-
