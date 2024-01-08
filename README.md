@@ -16,7 +16,7 @@ To run this project, ensure you have Microsoft Power BI installed on your system
 
 ## Dashboard
 
-#![Screenshot 2023-12-28 222000](https://github.com/Praveendinesha/Pizza-Sales-Report/assets/142248403/654bf87f-f651-4204-b304-d16e6c8f3458)
+[Ecommerce_Sales_Insights.pdf](https://github.com/Praveendinesha/Sales-Insights-Analysis/files/13864429/Ecommerce_Sales_Insights.pdf)
 
 ## Dashboard Insights
 **Key Performance Indicators (KPIs):** Total Profit, Total Sales, Total Quantity, Profit Margin%
